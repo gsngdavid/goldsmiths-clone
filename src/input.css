@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    * {
+        font-family: 'sf-pro-text_regular', "Helvetica Neue","Helvetica","Arial",sans-serif;
+        box-sizing: border-box;
+    }
+
+    .container {
+        @apply mx-auto px-4
+    }
+
+}
