@@ -2,7 +2,14 @@
 module.exports = {
   content: ['./build/*.html', './build/js/*.js'],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "dark-primary": "#1c1c1c",
+        "gray-primary": "#666",
+        "dark-gray": "#333333",
+        "yellow-primary": "#fed100",
+      }
+    },
   },
   plugins: [],
 }
