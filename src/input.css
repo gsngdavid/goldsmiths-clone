@@ -18,3 +18,9 @@
     }
 
 }
+
+
+@font-face {
+    font-family: druk-bold;
+    src: url(../fonts/Druk-Bold-Web);
+}
