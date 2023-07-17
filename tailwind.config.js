@@ -8,6 +8,8 @@ module.exports = {
         "gray-primary": "#666",
         "dark-gray": "#333333",
         "yellow-primary": "#fed100",
+        "blue-primary": "#376ebe",
+        "red-primary": "#a42017",
       }
     },
   },
