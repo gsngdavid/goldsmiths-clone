@@ -14,11 +14,15 @@
     }
 
     .x-space {
-        @apply px-20
+        @apply px-4 md:px-20
     }
 
     .nav-link {
         @apply font-semibold text-gray-primary hover:text-yellow-primary hover:bg-dark-primary px-4 md:flex items-center gap-4  
+    }
+
+    .footer-link {
+        @apply text-white font-semibold hover:text-yellow-primary
     }
 
 }
